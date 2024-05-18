@@ -195,6 +195,9 @@ class BankOperations extends Frame implements ActionListener {
             		if(interest > 0.0 && interest<=100.0 && years!=0){
             			JOptionPane.showMessageDialog(this,"The Interest Amount is"+(balance*interest*years)/100);
             		}
+			else{
+            			JOptionPane.showMessageDialog(this,"Please enter correct Details.","Error",JOptionPane.ERROR_MESSAGE);
+            		}
             	}
             	catch(NumberFormatException exp){
             		JOptionPane.showMessageDialog(this,"Invalid details","Error",JOptionPane.ERROR_MESSAGE);
