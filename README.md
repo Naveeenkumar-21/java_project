@@ -34,3 +34,7 @@ Account Details
 "345678", "9998887776", "Alice Johnson", "1995-12-25"
 "456789", "1112223334", "Bob Brown", "1978-08-15"
 "567890", "4445556667", "Emily Davis", "2000-04-30"
+
+
+
+NOTE : backgroundImage = Toolkit.getDefaultToolkit().getImage("COPY THE IMAGE PATH IN YOUR SYSTEM"); To Run the Background image of this Program COPY the Path of the given Image in your System !
