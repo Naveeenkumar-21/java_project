@@ -27,14 +27,5 @@ All the validation such as amount cannot be withdraw if balance is zero, If amou
 If user choose Interest Comparison must have Simple Interest calculation minium for 3 banks and display the total
 amount"
 
-Account Details
-
-"123456", "1234567890", "John Doe", "1990-01-01"
-"234567", "9876543210", "Jane Smith", "1985-05-10"
-"345678", "9998887776", "Alice Johnson", "1995-12-25"
-"456789", "1112223334", "Bob Brown", "1978-08-15"
-"567890", "4445556667", "Emily Davis", "2000-04-30"
-
-
 
 NOTE : backgroundImage = Toolkit.getDefaultToolkit().getImage("COPY THE IMAGE PATH IN YOUR SYSTEM"); To Run the Background image of this Program COPY the Path of the given Image in your System !
