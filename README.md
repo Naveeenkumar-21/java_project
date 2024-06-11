@@ -2,7 +2,7 @@
 
 
 Team no:3 
-TEam Name: RunTime Terrors
+Team Name: RunTime Terrors
 TL:Naveenkumar.V-23ITR111
 Mohanraja.V-23ITR100
 MithikKarthikeyan.K-23ITR098
